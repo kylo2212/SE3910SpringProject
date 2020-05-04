@@ -1,0 +1,30 @@
+{
+  "name": "se3910-spring2020-project",
+  "version": "1.0.0",
+  "description": "Home Automation Class Project for Software Engineering",
+  "main": "login.html",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylo2212/SE3910-spring2020-project.git"
+  },
+  "keywords": [
+    "project",
+    "home",
+    "automation"
+  ],
+  "author": "Kirstie O'Connell, Jonathan Punti, Joshua Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylo2212/SE3910-spring2020-project/issues"
+  },
+  "homepage": "https://github.com/kylo2212/SE3910-spring2020-project#readme"
+}
